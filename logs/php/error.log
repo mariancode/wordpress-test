@@ -1,0 +1,25 @@
+[11-Jul-2024 01:40:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\plugins\astra-sites\inc\importers\class-astra-sites-helper.php on line 143
+[11-Jul-2024 01:40:53 UTC] PHP Stack trace:
+[11-Jul-2024 01:40:53 UTC] PHP   1. {main}() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-admin\admin-ajax.php:0
+[11-Jul-2024 01:40:53 UTC] PHP   2. do_action() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-admin\admin-ajax.php:192
+[11-Jul-2024 01:40:53 UTC] PHP   3. WP_Hook->do_action() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-includes\plugin.php:517
+[11-Jul-2024 01:40:53 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-includes\class-wp-hook.php:348
+[11-Jul-2024 01:40:53 UTC] PHP   5. AiBuilder\Inc\Ajax\Importer->import_widgets() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-includes\class-wp-hook.php:324
+[11-Jul-2024 01:40:53 UTC] PHP   6. AiBuilder\Inc\Traits\Helper::import_widgets() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\plugins\astra-sites\inc\lib\ai-builder\inc\ajax\importer.php:393
+[11-Jul-2024 01:40:53 UTC] PHP   7. STImporter\Importer\ST_Importer::import_widgets() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\plugins\astra-sites\inc\lib\ai-builder\inc\traits\helper.php:625
+[11-Jul-2024 01:40:53 UTC] PHP   8. STImporter\Importer\ST_Widget_Importer::import_widgets_data() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\plugins\astra-sites\inc\lib\starter-templates-importer\importer\st-importer.php:351
+[11-Jul-2024 01:40:53 UTC] PHP   9. apply_filters() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\plugins\astra-sites\inc\lib\starter-templates-importer\importer\st-widget-importer.php:103
+[11-Jul-2024 01:40:53 UTC] PHP  10. WP_Hook->apply_filters() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-includes\plugin.php:205
+[11-Jul-2024 01:40:53 UTC] PHP  11. Astra_Sites_Helper->custom_menu_widget() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-includes\class-wp-hook.php:324
+[11-Jul-2024 01:40:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\plugins\astra-sites\inc\lib\starter-templates-importer\importer\st-widget-importer.php on line 150
+[11-Jul-2024 01:40:53 UTC] PHP Stack trace:
+[11-Jul-2024 01:40:53 UTC] PHP   1. {main}() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-admin\admin-ajax.php:0
+[11-Jul-2024 01:40:53 UTC] PHP   2. do_action() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-admin\admin-ajax.php:192
+[11-Jul-2024 01:40:53 UTC] PHP   3. WP_Hook->do_action() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-includes\plugin.php:517
+[11-Jul-2024 01:40:53 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-includes\class-wp-hook.php:348
+[11-Jul-2024 01:40:53 UTC] PHP   5. AiBuilder\Inc\Ajax\Importer->import_widgets() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-includes\class-wp-hook.php:324
+[11-Jul-2024 01:40:53 UTC] PHP   6. AiBuilder\Inc\Traits\Helper::import_widgets() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\plugins\astra-sites\inc\lib\ai-builder\inc\ajax\importer.php:393
+[11-Jul-2024 01:40:53 UTC] PHP   7. STImporter\Importer\ST_Importer::import_widgets() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\plugins\astra-sites\inc\lib\ai-builder\inc\traits\helper.php:625
+[11-Jul-2024 01:40:53 UTC] PHP   8. STImporter\Importer\ST_Widget_Importer::import_widgets_data() C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\plugins\astra-sites\inc\lib\starter-templates-importer\importer\st-importer.php:351
+[11-Jul-2024 12:00:15 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\themes\child-theme\single.php on line 26
+[11-Jul-2024 12:02:17 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in C:\Users\DELL\Local Sites\recettesfaciles\app\public\wp-content\themes\child-theme\single.php on line 26
