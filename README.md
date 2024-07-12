@@ -1,4 +1,4 @@
-Le projet a été créé localement avec le programme local, le thème astra, et un thème enfant.
+Le projet a été créé localement avec le programme local, le thème astra, un thème enfant, et le éditeur elementor.
 
 J'ai utilisé le plugin 'custom post type UI' et le plugin 'ACF'. Bien que le plugin ACF permette maintenant de créer des types de posts personnalisés, le plugin custom post type UI est peut-être plus spécifique lorsqu'il s'agit de créer des types de posts et des taxonomies.
 
